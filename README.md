@@ -8,5 +8,5 @@ The function for grayscale images is named "bilateralGrayscale" and an example o
 
 For the RGB images the file named "bilateralRGB" can be used. The same process is followed for every one of the three channels.
 
-
+The images can be found in the issue created called Images.
 
