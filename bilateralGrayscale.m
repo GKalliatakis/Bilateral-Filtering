@@ -102,7 +102,5 @@ denoisedimg=im2double(imread('outputImg.jpg'));
 
 psnr=PSNR(originalimg,denoisedimg);
 fprintf('PSNR is: %f \n', psnr); 
-% 
-
 end
 
