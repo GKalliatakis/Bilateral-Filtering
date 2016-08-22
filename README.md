@@ -1,5 +1,7 @@
 Bilateral-Filtering 
 ===================
+<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
+
 
 Project developed in Matlab, implementing Bilateral Filtering for the Advanced Image Analysis module.
 Can be used both for Grayscale and RGB images.
