@@ -58,8 +58,7 @@ The implementation for color images can be found in the
 *bilateralRGB* with the supplementary function
 *bilateral_each_channel*.
 
-
-PLicense
+License
 ----
 
 MIT
