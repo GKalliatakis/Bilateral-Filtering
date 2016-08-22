@@ -4,7 +4,7 @@
 
 
 ### Applying Bilateral Filtering to images
-![alt tag](https://raw.githubusercontent.com/GKalliatakis/Bilateral-Filtering/master/bilateral_filtering.png)
+<p align="center"> <img src="https://raw.githubusercontent.com/GKalliatakis/Bilateral-Filtering/master/bilateral_filtering.png?raw=true" /> </p>
 
 
 ### Overview
