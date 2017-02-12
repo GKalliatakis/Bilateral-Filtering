@@ -1,7 +1,5 @@
 # Bilateral Filtering 
 ===================
-<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
-
 
 ### Applying Bilateral Filtering to images
 <p align="center"> <img src="https://raw.githubusercontent.com/GKalliatakis/Bilateral-Filtering/master/bilateral_filtering.png?raw=true" /> </p>
